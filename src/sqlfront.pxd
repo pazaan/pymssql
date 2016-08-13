@@ -106,6 +106,7 @@ cdef extern from "sqlfront.h":
     int DBVERSION_70
     int DBVERSION_71
     int DBVERSION_72
+    int DBVERSION_73
 
     ## Type Constants ##
     cdef enum:
